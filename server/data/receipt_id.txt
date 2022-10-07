@@ -1,0 +1,24 @@
+101,Brazilian Salmon Stew (Moqueca)
+102,Chicken Mulligatawny Soup
+103,Chinese Chicken Salad
+104,Sichuan Eggplant
+105,French Onion Soup
+106,Sheet Pan Fish and Chips
+107,Brazilian Chicken Pot Pie
+109,No-fail Yorkies
+110,Alsatian Bacon and Onion Tart
+111,Bourride
+112,Traditional Spaghetti all'Amatriciana
+113,Ukrainian Split Pea Soup
+114,Hearty Minestrone Soup
+115,Tortellini Pesto Salad
+116,Ukrainian Dumplings aka Galushki
+117,Sauerkraut Soup (Kapustnyak)
+118,Authentic Halupki
+119,Hungarian Mushroom Soup
+120,Hungarian Goulash
+121,Hungarian Potato and Sausage Soup
+122,Greek Lemon Chicken and Potatoes
+123,Avgolemono Soup
+124,Greek Horiatiki Salad
+125,Pork Souvlaki

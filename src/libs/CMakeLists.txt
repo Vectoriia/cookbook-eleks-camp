@@ -1,0 +1,10 @@
+add_subdirectory(database)
+add_subdirectory(searchdialog)
+add_subdirectory(sidebar)
+add_subdirectory(calculatedialog)
+add_subdirectory(receiptview)
+add_subdirectory(downloaddialog)
+add_subdirectory(createreceiptview)
+add_subdirectory(viewwidget)
+add_subdirectory(ui)
+
